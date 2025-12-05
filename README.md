@@ -27,5 +27,3 @@ Chào mừng bạn đến với mô hình Vũ trụ 3D tương tác thông minh!
 * ✅ **Ánh sáng:** Đảm bảo nơi bạn ngồi có đủ ánh sáng để Webcam nhìn rõ bàn tay.
 * ✅ **Khoảng cách:** Giữ tay cách Camera khoảng 30-50cm là lý tưởng nhất.
 * ✅ **Chuyển đổi:** Khi đổi cử chỉ (ví dụ từ Nắm đấm sang Mở tay), hãy làm dứt khoát để hệ thống nhận diện nhanh hơn.
-
-Chúc bạn có những giây phút "điều khiển vũ trụ" thật vui vẻ! :33
